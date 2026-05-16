@@ -1,0 +1,11 @@
+{
+  "domain": "naver_weather",
+  "name": "Naver Weather",
+  "config_flow": true,
+  "documentation": "https://github.com/af950833/naver_weather",
+  "requirements": ["beautifulsoup4>=4.12.0"],
+  "dependencies": [],
+  "codeowners": ["@af9508333"],
+  "version": "2.5.5",
+  "iot_class": "cloud_polling"
+}

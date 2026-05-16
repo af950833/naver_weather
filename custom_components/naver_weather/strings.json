@@ -1,0 +1,40 @@
+{
+  "title": "Naver Weather",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "[%key:common::config_flow::abort::single_instance_allowed%]",
+      "no_devices_found": "[%key:common::config_flow::abort::no_devices_found%]",
+      "dong_required": "Enter a district and dong, for example Gyeyang-gu Janggi-dong."
+    },
+    "error": {
+      "dong_required": "Enter a district and dong, for example Gyeyang-gu Janggi-dong."
+    },
+    "step": {
+      "confirm": {
+        "description": "[%key:common::config_flow::description::confirm_setup%]"
+      },
+      "user": {
+        "title": "Set up Naver Weather",
+        "description": "Do you want to set up Naver Weather?",
+        "data": {
+          "area": "District and dong, for example Gyeyang-gu Janggi-dong.",
+          "today": "Today : Weekly forecast includes today's weather."
+        }
+      }
+    }
+  },
+  "options": {
+    "error": {
+      "dong_required": "Enter a district and dong, for example Gyeyang-gu Janggi-dong."
+    },
+    "step": {
+      "init": {
+        "title": "Naver Weather Options.",
+        "data": {
+          "area": "District and dong, for example Gyeyang-gu Janggi-dong.",
+          "today": "Today : Weekly forecast includes today's weather."
+        }
+      }
+    }
+  }
+}
