@@ -3,14 +3,29 @@
 Home Assistant에서 네이버 날씨 검색 결과를 기반으로 현재 날씨, 주간 예보, 미세먼지와 대기질 정보를 제공하는 커스텀 통합입니다.
 
 ![HACS](https://img.shields.io/badge/HACS-Custom-orange.svg)
-![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-v2.5.5-blue.svg)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Custom%20Integration-41BDF5.svg)
+
+## Lovelace 카드
+
+이 통합에서 생성한 날씨/예보/대기질 센서를 한 화면에 보여주는 전용 Lovelace 카드도 제공합니다.
+
+- 카드 저장소: [af950833/naver-weather-card](https://github.com/af950833/naver-weather-card)
+- HACS 카테고리: `Dashboard`
+- 카드 타입: `custom:naver-weather-card`
+
+HACS 사용자 정의 저장소에 아래 주소를 `Dashboard` 카테고리로 추가해서 설치할 수 있습니다.
+
+```text
+https://github.com/af950833/naver-weather-card
+```
 
 ## 원작자 표기
 
-이 저장소는 [miumida/naver_weather](https://github.com/miumida/naver_weather)를 기반으로 수정한 버전입니다.
+이 저장소는 [miumida/naver_weather](https://github.com/miumida/naver_weather)를 기반으로 수정한 포크입니다.
 
-현재 버전은 네이버 페이지 구조 변경 대응, 동 단위 지역 사용, 센서 정리, 주간 예보 및 대기질 센서 개선을 목적으로 유지보수하고 있습니다.
+원작자인 [@miumida](https://github.com/miumida)님과 기존 프로젝트에 기여해 주신 분들께 감사드립니다.  
+현재 포크는 네이버 페이지 구조 변경 대응, 동 단위 지역 사용, 센서 정리, 주간 예보 및 대기질 센서 개선을 목적으로 유지보수하고 있습니다.
 
 ## 주요 기능
 
@@ -200,8 +215,8 @@ Home Assistant는 엔티티 레지스트리를 보존합니다. 통합을 삭제
 
 필요하면 `설정 > 기기 및 서비스 > 엔티티`에서 기존 엔티티를 정리한 뒤 다시 추가하세요.
 
-## 버전 정보
+## 감사
 
-- 2026/05/16 V1.0.0 Initial Release
-
-
+- 원작: [@miumida/naver_weather](https://github.com/miumida/naver_weather)
+- 현재 포크: [@af950833](https://github.com/af950833/naver_weather)
+- Home Assistant 커뮤니티와 기존 사용자 피드백에 감사드립니다.
