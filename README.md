@@ -3,7 +3,7 @@
 Home Assistant에서 네이버 날씨 검색 결과를 기반으로 현재 날씨, 주간 예보, 미세먼지와 대기질 정보를 제공하는 커스텀 통합입니다.
 
 ![HACS](https://img.shields.io/badge/HACS-Custom-orange.svg)
-![Version](https://img.shields.io/badge/version-v2.5.5-blue.svg)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Custom%20Integration-41BDF5.svg)
 
 ## 원작자 표기
