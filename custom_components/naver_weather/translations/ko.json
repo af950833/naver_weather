@@ -1,0 +1,39 @@
+{
+    "title": "\uB124\uC774\uBC84 \uB0A0\uC528",
+    "config": {
+        "abort": {
+            "single_instance_allowed": "\uC774\uBBF8 \uC874\uC7AC\uD569\uB2C8\uB2E4.",
+            "dong_required": "\uAD6C\uC640 \uB3D9\uC744 \uC785\uB825\uD558\uC138\uC694. \uC608: \uACC4\uC591\uAD6C \uC7A5\uAE30\uB3D9."
+        },
+        "error": {
+            "dong_required": "\uAD6C\uC640 \uB3D9\uC744 \uC785\uB825\uD558\uC138\uC694. \uC608: \uACC4\uC591\uAD6C \uC7A5\uAE30\uB3D9."
+        },
+        "step": {
+            "confirm": {
+                "description": "\uB2F4\uB2E4 \uD328\uB4DC \uB97C \uC124\uCE58\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+            },
+            "user": {
+                "title": "\uB124\uC774\uBC84 \uB0A0\uC528 \uC124\uC815\uD558\uAE30",
+                "description": "\uB124\uC774\uBC84 \uB0A0\uC528\uB97C \uCD94\uAC00\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?",
+                "data": {
+                    "area": "\uAD6C\uC640 \uB3D9\uC744 \uC785\uB825\uD558\uC138\uC694. \uC608: \uACC4\uC591\uAD6C \uC7A5\uAE30\uB3D9",
+                    "today": "\uC8FC\uAC04\uC608\uBCF4\uC5D0 \uC624\uB298\uB0A0\uC528 \uD3EC\uD568"
+                }
+            }
+        }
+    },
+    "options": {
+        "error": {
+            "dong_required": "\uAD6C\uC640 \uB3D9\uC744 \uC785\uB825\uD558\uC138\uC694. \uC608: \uACC4\uC591\uAD6C \uC7A5\uAE30\uB3D9."
+        },
+        "step": {
+            "init": {
+                "title": "\uB124\uC774\uBC84 \uB0A0\uC528 \uC0AC\uC6A9\uC790\uC124\uC815.",
+                "data": {
+                    "area": "\uAD6C\uC640 \uB3D9\uC744 \uC785\uB825\uD558\uC138\uC694. \uC608: \uACC4\uC591\uAD6C \uC7A5\uAE30\uB3D9",
+                    "today": "\uC8FC\uAC04\uC608\uBCF4\uC5D0 \uC624\uB298\uB0A0\uC528 \uD3EC\uD568"
+                }
+            }
+        }
+    }
+}
