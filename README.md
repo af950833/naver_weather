@@ -8,7 +8,7 @@ Home Assistant에서 네이버 날씨 검색 결과를 기반으로 현재 날�
 
 ## 원작자 표기
 
-이 저장소는 [miumida/naver_weather](https://github.com/miumida/naver_weather)를 기반으로 수정한 포크입니다.
+이 저장소는 [miumida/naver_weather](https://github.com/miumida/naver_weather)를 기반으로 수정한 버전입니다.
 
 원작자인 [@miumida](https://github.com/miumida)님과 기존 프로젝트에 기여해 주신 분들께 감사드립니다.  
 현재 포크는 네이버 페이지 구조 변경 대응, 동 단위 지역 사용, 센서 정리, 주간 예보 및 대기질 센서 개선을 목적으로 유지보수하고 있습니다.
@@ -201,8 +201,8 @@ Home Assistant는 엔티티 레지스트리를 보존합니다. 통합을 삭제
 
 필요하면 `설정 > 기기 및 서비스 > 엔티티`에서 기존 엔티티를 정리한 뒤 다시 추가하세요.
 
-## 감사
+## 버전 정보
 
-- 원작: [@miumida/naver_weather](https://github.com/miumida/naver_weather)
-- 현재 포크: [@af950833](https://github.com/af950833/naver_weather)
-- Home Assistant 커뮤니티와 기존 사용자 피드백에 감사드립니다.
+- 2026/05/16 V1.0.0.0 Initial Release
+
+
