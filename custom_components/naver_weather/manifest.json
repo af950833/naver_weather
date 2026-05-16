@@ -6,6 +6,6 @@
   "requirements": ["beautifulsoup4>=4.12.0"],
   "dependencies": [],
   "codeowners": ["@af9508333"],
-  "version": "2.5.5",
+  "version": "1.0.0",
   "iot_class": "cloud_polling"
 }
