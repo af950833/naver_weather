@@ -10,7 +10,6 @@ Home Assistant에서 네이버 날씨 검색 결과를 기반으로 현재 날�
 
 이 저장소는 [miumida/naver_weather](https://github.com/miumida/naver_weather)를 기반으로 수정한 버전입니다.
 
-원작자인 [@miumida](https://github.com/miumida)님과 기존 프로젝트에 기여해 주신 분들께 감사드립니다.  
 현재 버전은 네이버 페이지 구조 변경 대응, 동 단위 지역 사용, 센서 정리, 주간 예보 및 대기질 센서 개선을 목적으로 유지보수하고 있습니다.
 
 ## 주요 기능
