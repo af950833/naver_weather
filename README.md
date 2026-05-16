@@ -203,6 +203,6 @@ Home Assistant는 엔티티 레지스트리를 보존합니다. 통합을 삭제
 
 ## 버전 정보
 
-- 2026/05/16 V1.0.0.0 Initial Release
+- 2026/05/16 V1.0.0 Initial Release
 
 
